@@ -4,6 +4,8 @@ A game coded in an hour and a half as part of a small competition my friend and 
 
 enjoy!
 
+(to download go to releases)
+
 ### Description
 Swim aginst the current and dodge obstacles under the water!
 
